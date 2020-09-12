@@ -5,19 +5,19 @@
 - 项目效果图：
 - 
 
-<img src="C:\Users\Jimobbb\AppData\Roaming\Typora\typora-user-images\image-20200911202650867.png" alt="image-20200911202650867" style="zoom:25%;" />
+<img src="https://github.com/Jimobbb/Do-More/blob/master/imageShow/%E8%AE%BE%E7%BD%AE.jpg" alt="image-20200911202650867" style="zoom:25%;" />
 
 【设置界面】
 
-<img src="C:\Users\Jimobbb\AppData\Roaming\Typora\typora-user-images\image-20200911202837455.png" alt="image-20200911202837455" style="zoom:25%;" />
+<img src="https://github.com/Jimobbb/Do-More/blob/master/imageShow/%E4%B8%BB%E9%A1%B5.jpg" alt="image-20200911202837455" style="zoom:25%;" />
 
 【主界面显示】
 
-<img src="C:\Users\Jimobbb\AppData\Roaming\Typora\typora-user-images\image-20200911202734577.png" alt="image-20200911202734577" style="zoom:25%;" />
+<img src="https://github.com/Jimobbb/Do-More/blob/master/imageShow/%E5%B7%A5%E4%BD%9C.jpg" alt="image-20200911202734577" style="zoom:25%;" />
 
 【工作中界面展示】
 
-<img src="C:\Users\Jimobbb\AppData\Roaming\Typora\typora-user-images\image-20200911202755472.png" alt="image-20200911202755472" style="zoom:25%;" />
+<img src="https://github.com/Jimobbb/Do-More/blob/master/imageShow/%E4%BC%91%E6%81%AF.jpg" alt="image-20200911202755472" style="zoom:25%;" />
 
 【休息中界面展示】
 
