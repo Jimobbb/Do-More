@@ -3,7 +3,6 @@
 - 项目名称： Do More
 - 项目介绍：Do More微信小程序，是一款可以记录工作或休息时间的小程序
 - 项目效果图：
-- 
 
 <img src="https://github.com/Jimobbb/Do-More/blob/master/imageShow/%E8%AE%BE%E7%BD%AE.jpg" alt="image-20200911202650867" style="zoom:25%;" />
 
@@ -20,6 +19,10 @@
 <img src="https://github.com/Jimobbb/Do-More/blob/master/imageShow/%E4%BC%91%E6%81%AF.jpg" alt="image-20200911202755472" style="zoom:25%;" />
 
 【休息中界面展示】
+
+- 视频演示
+[https://github.com/Jimobbb/Do-More/blob/master/Do%20More%E6%BC%94%E7%A4%BA.mp4](https://github.com/Jimobbb/Do-More/blob/master/Do More演示.mp4)
+
 
 
 
