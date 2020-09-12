@@ -21,7 +21,7 @@
 【休息中界面展示】
 
 - 视频演示
-[https://github.com/Jimobbb/Do-More/blob/master/Do%20More%E6%BC%94%E7%A4%BA.mp4](https://github.com/Jimobbb/Do-More/blob/master/Do More演示.mp4)
+[https://github.com/Jimobbb/Do-More/blob/master/Do%20More%E6%BC%94%E7%A4%BA.mp4]
 
 
 
